@@ -1,0 +1,8 @@
+{
+  "name": "onnxruntime-cpu-default",
+  "version": "1.10.0",
+  "port-version": 1,
+  "description": "onnxruntime (CPU Default)",
+  "homepage": "https://github.com/microsoft/onnxruntime",
+  "supports": "x64"
+}
