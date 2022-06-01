@@ -1,5 +1,6 @@
 {
   "default": {
-    "onnxruntime-cpu-default": { "baseline": "1.10.0", "port-version": 1 }
+    "onnxruntime-cpu-default": { "baseline": "1.10.0", "port-version": 1 },
+    "onnxruntime-gpu-default": { "baseline": "1.10.0", "port-version": 1 }
   }
 }
